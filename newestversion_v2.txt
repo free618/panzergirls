@@ -4,7 +4,8 @@ return {
 	patchFiles = {
 		[1] = {
 			file = "patch0-1.zip",
-			md5 = "",
+			md5 = "5fa57c0ae363857791c34736262712c5",
+			size = 336,
 			urls = {
 				"https://raw.githubusercontent.com/free618/panzergirls/master/",
 			},
