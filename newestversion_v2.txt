@@ -1,5 +1,13 @@
 
 return {
 	versionNumber = 0,
-	patchFiles = {},
+	patchFiles = {
+		[1] = {
+			file = "patch0-1.zip",
+			md5 = "",
+			urls = {
+				"https://raw.githubusercontent.com/free618/panzergirls/master/",
+			},
+		}
+	},
 }
