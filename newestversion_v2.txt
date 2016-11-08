@@ -5,8 +5,8 @@ return {
 		[1] = {
 			file = "patch0-1.zip",
 			fileCount = 379,
-			md5 = "80ba17d56f43a68f3958e2dcc757b42b",
-			size = 1387430,
+			md5 = "681c028fcb38774c72050ec39afc75a0",
+			size = 1394970,
 			urls = {
 				"https://raw.githubusercontent.com/free618/panzergirls/master/",
 			},
