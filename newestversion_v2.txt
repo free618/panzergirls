@@ -4,6 +4,7 @@ return {
 	patchFiles = {
 		[1] = {
 			file = "patch0-1.zip",
+			fileCount = 379,
 			md5 = "80ba17d56f43a68f3958e2dcc757b42b",
 			size = 1387430,
 			urls = {
