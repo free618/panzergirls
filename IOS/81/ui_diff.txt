@@ -1,0 +1,8 @@
+A       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/layout_obb_updated.csb
+A       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/layout_updated_v1.csb
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/animation_node/ani_skill_supply1_value40.csb
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/animation_node/ani_skill_supply_value40.csb
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/layout_launch_maps_v1.csb
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/ui_material/launch_maps/activity_1.png
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/ui_material/launch_maps/activity_2.png
+M       /Users/hanruofei/Documents/PanzerGirls/ArtResource/ui/ui_material/launch_maps/activity_3.png

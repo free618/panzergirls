@@ -1,0 +1,12 @@
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/ui/login/obbdownloader.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/ui/login/KUILoginUpdateNode.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/ui/battle/KUIBattleReportNode.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/ui/office/launch/KUILaunchMapsNode.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/ui/office/KUIOfficeMainLayer.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/reward.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/battle.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/settings/string.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/base/KGlobalFunction.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/battle/KBattleUIHelper.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/version.lua
+M       /Users/hanruofei/Documents/PanzerGirls/SHClient/src/logic/KSDKAgent.lua
